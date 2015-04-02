@@ -1,4 +1,5 @@
 vaules = Array[]
+puts "Enter how many numbers to be sorted"
 for i in 1..5 do
 	puts "Enter a number"
 	a=gets.chomp
