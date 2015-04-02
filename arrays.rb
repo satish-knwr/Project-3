@@ -6,5 +6,4 @@ for i in 1..5 do
 end
 for i in 0..4 do
 	puts vaules.sort[i]
-	
 end
